@@ -534,3 +534,21 @@ Reason: §fBanned by an operator.
 15:49:23 [INFO] [YeegYee110] disconnected with: §f§cException Connecting: QuietException : Server is online mode!
 15:49:23 [INFO] [YeegYee110] -> UpstreamBridge has disconnected
 15:49:23 [INFO] [YeegYee110] <-> ServerConnector [lobby] has disconnected
+15:50:59 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:43944]: Connected via websocket
+15:50:59 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:43944]: Origin header is https://localhost:8081
+15:50:59 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:43944]: Logged in as 'YeegYee110'
+15:50:59 [INFO] [YeegYee110] -> UpstreamBridge has connected
+15:50:59 [INFO] [YeegYee110] <-> ServerConnector [lobby] has connected
+15:50:59 [SEVERE] [YeegYee110] <-> ServerConnector [lobby] - encountered exception: net.md_5.bungee.util.QuietException: Server is online mode!
+15:50:59 [INFO] [YeegYee110] disconnected with: §f§cException Connecting: QuietException : Server is online mode!
+15:50:59 [INFO] [YeegYee110] -> UpstreamBridge has disconnected
+15:50:59 [INFO] [YeegYee110] <-> ServerConnector [lobby] has disconnected
+15:51:40 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:49330]: Connected via websocket
+15:51:40 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:49330]: Origin header is https://localhost:8081
+15:51:40 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:49330]: Logged in as 'YeegYee110'
+15:51:40 [INFO] [YeegYee110] -> UpstreamBridge has connected
+15:51:40 [INFO] [YeegYee110] <-> ServerConnector [lobby] has connected
+15:51:40 [SEVERE] [YeegYee110] <-> ServerConnector [lobby] - encountered exception: net.md_5.bungee.util.QuietException: Server is online mode!
+15:51:40 [INFO] [YeegYee110] disconnected with: §f§cException Connecting: QuietException : Server is online mode!
+15:51:40 [INFO] [YeegYee110] -> UpstreamBridge has disconnected
+15:51:40 [INFO] [YeegYee110] <-> ServerConnector [lobby] has disconnected

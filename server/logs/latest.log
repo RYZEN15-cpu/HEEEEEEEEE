@@ -156,3 +156,5 @@
 [15:47:54] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.2.1, you're on: 4.9.3
 [15:49:00] [Server thread/INFO]: com.mojang.authlib.GameProfile@234ed6a9[id=<null>,name=YeegYee110,properties={},legacy=false] (/[0:0:0:0:0:0:0:1]:52710) lost connection: Disconnected
 [15:49:23] [Server thread/INFO]: com.mojang.authlib.GameProfile@35d2c6e4[id=<null>,name=YeegYee110,properties={},legacy=false] (/[0:0:0:0:0:0:0:1]:47970) lost connection: Disconnected
+[15:50:59] [Server thread/INFO]: com.mojang.authlib.GameProfile@19758d61[id=<null>,name=YeegYee110,properties={},legacy=false] (/[0:0:0:0:0:0:0:1]:49224) lost connection: Disconnected
+[15:51:40] [Server thread/INFO]: com.mojang.authlib.GameProfile@6ffaf43[id=<null>,name=YeegYee110,properties={},legacy=false] (/[0:0:0:0:0:0:0:1]:51768) lost connection: Disconnected
